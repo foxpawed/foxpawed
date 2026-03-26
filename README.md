@@ -1,1 +1,1 @@
-![Profile view counter on GitHub](https://github.com/foxpawed)
+![profile views](https://github.com/foxpawed)
